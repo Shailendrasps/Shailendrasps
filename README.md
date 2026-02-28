@@ -1,46 +1,45 @@
-# Hi 👋, I'm Shailendra Pratap Singh
+<h1 align="center">Hi 👋, I'm Shailendra Pratap Singh</h1>
 
-🚀 Full Stack Developer | React | Node.js | MySQL | MongoDB  
-🎓 B.Tech CSE (CGPA: 8.03) – IIIT Una  
-💼 Software Engineer @ Flexiele Consulting  
-🔥 950+ DSA Problems Solved | LeetCode Rating: 1732  
+<h3 align="center">Full Stack Developer | React | Node.js | System Design Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MySQL;950%2B+DSA+Problems+Solved;LeetCode+Rating+1732;Building+Scalable+Web+Applications" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔭 Currently working as a Software Engineer
-- ⚡ Built production-level features using React, Node.js & MySQL
-- 📈 Improved onboarding automation by 30% using WhatsApp Meta API
-- 🛠 Passionate about scalable backend systems & clean frontend architecture
-- 🧠 Strong in DSA, OOPS, DBMS, OS, CN
+- 💼 Software Engineer @ Flexiele Consulting
+- 🎓 B.Tech CSE | IIIT Una | CGPA: 8.03
+- 🔥 Solved 950+ DSA problems
+- 🏆 LeetCode Rating: 1732 (Top 10%)
+- ⚡ Improved onboarding automation by 30% using WhatsApp Meta API
+- 🛠 Love building scalable backend systems & clean UI architectures
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React.js
-- Redux
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript / TypeScript
+### 👨‍💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,bootstrap" />
+</p>
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+### ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Database**
-- MySQL
-- MongoDB
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-**Tools**
-- Git & GitHub
-- Linux
-- Postman
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
+</p>
 
 ---
 
@@ -48,7 +47,7 @@
 
 ### 🍔 TasteYum – Full Stack Food Ordering Platform
 - Real-time order tracking (Socket.io)
-- Razorpay Payment Integration with HMAC verification
+- Razorpay Payment Integration (HMAC verification)
 - JWT Authentication & bcrypt hashing
 - Tech: React 18, Node.js, Express, MongoDB
 
@@ -57,31 +56,49 @@
 ---
 
 ### 💰 Expense Tracker – Finance Dashboard
-- Category-wise analytics using Chart.js
+- Category-wise analytics (Chart.js)
 - CSV export functionality
 - useReducer state management
-- LocalStorage persistence
-- Full CRUD with search & sorting
+- Full CRUD + Search + Sorting
 
 🔗 Repo: https://github.com/Shailendrasps/expense_tracker
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Analytics
 
-- 🔥 Solved 950+ DSA problems
-- 🏅 LeetCode Rating: 1732 (Top 10%)
-- 💯 100+ problems on CodeChef & HackerRank
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shailendrasps&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailendrasps&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendrasps&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shailendrasps2001?theme=dark&font=Karma&ext=contest" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: shailendrasps2001@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/shailendrasps
-- 🧑‍💻 GitHub: https://github.com/Shailendrasps
-- 🧠 LeetCode: https://leetcode.com/shailendrasps2001
+<p align="center">
+  <a href="mailto:shailendrasps2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shailendrasps"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/shailendrasps2001"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
 
 ---
 
-⭐ If you like my work, feel free to connect!
+<p align="center">
+  ⭐ If you like my work, feel free to connect and collaborate!
+</p>
